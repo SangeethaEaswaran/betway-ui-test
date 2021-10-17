@@ -1,5 +1,5 @@
 # betWay-ui-test
-# Webdriverio-Test
+
 Problem Description:
 This project covers test cases for the following scenarios :
 1. As a business user, I would like to make a record of all teams which are playing today
